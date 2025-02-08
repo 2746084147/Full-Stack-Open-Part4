@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Inh1bmppbmciLCJpZCI6IjY3YTYxMDFjNjI4ZmEwZWUyOGRlZTYwZiIsImlhdCI6MTczODk4MTIyOCwiZXhwIjoxNzM4OTg0ODI4fQ.hB1QI80rTbDTbkkJihKqwDnEyVNWGgDoJK87Uo3_vfM
+
+{
+  "title": "lets fucking go",
+  "author": "zhuo diao",
+  "url": "asdss",
+  "likes": "222",
+  "userId": "67a6101c628fa0ee28dee60f"
+}
